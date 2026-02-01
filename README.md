@@ -2,7 +2,7 @@
 
 A comprehensive collection of supervised and unsupervised machine learning projects demonstrating various algorithms and techniques including Linear Regression, K-Means Clustering, and Principal Component Analysis (PCA).
 
-###### What's Inside? ######
+## What's Inside? 
 
 This repository has 3 projects:
 
