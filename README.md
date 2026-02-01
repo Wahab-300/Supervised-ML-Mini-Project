@@ -1,4 +1,4 @@
-** Machine Learning Mini Project **
+## Machine Learning Mini Project 
 
 A comprehensive collection of supervised and unsupervised machine learning projects demonstrating various algorithms and techniques including Linear Regression, K-Means Clustering, and Principal Component Analysis (PCA).
 
@@ -10,7 +10,7 @@ This repository has 3 projects:
 2. **K-Means Clustering** - Group similar data together
 3. **PCA** - Reduce data dimensions
 
-###### Requirements ######
+## Requirements 
 
 You need Python and these libraries:
 - pandas
@@ -18,13 +18,13 @@ You need Python and these libraries:
 - scikit-learn
 - matplotlib
 
-###### Installation ######
+## Installation 
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib jupyter
 ```
 
-###### Projects ######
+## Projects 
 
 ### 1. Linear Regression (Supervised Learning)
 
@@ -71,7 +71,7 @@ pip install pandas numpy scikit-learn matplotlib jupyter
 - Component 1: 99.65% variance
 - Component 2: 0.35% variance
 
-###### Dataset ######
+## Dataset 
 
 **File:** `Supervised_L(small Project).csv`
 
@@ -86,14 +86,14 @@ Simple dataset with 6 rows:
 | 5     | 75     |
 | 6     | 80     |
 
-###### How to Run ######
+## How to Run 
 
 1. Download or clone this repository
 2. Open Jupyter Notebook
 3. Open any `.ipynb` file
 4. Click "Run All" or run cells one by one
 
-###### Quick Start Example ######
+## Quick Start Example 
  
 ```python
 # Load data
@@ -110,7 +110,7 @@ score = model.predict([[3]])  # 3 hours of study
 print(f"Predicted score: {score[0]:.0f}")
 ```
 
-###### What You'll Learn ######
+## What You'll Learn 
 
 - How to predict values (Regression)
 - How to find groups in data (Clustering)
@@ -118,7 +118,7 @@ print(f"Predicted score: {score[0]:.0f}")
 - How to evaluate model performance
 - Basic data analysis with Python
 
-###### Technologies ######
+## Technologies 
 
 - Python 3.13
 - Pandas - Data handling
@@ -126,12 +126,12 @@ print(f"Predicted score: {score[0]:.0f}")
 - Scikit-learn - Machine learning
 - Matplotlib - Graphs
 
-###### Author ######
+## Author 
 
 Your Name  
 GitHub: https://github.com/Wahab-300
 
-###### Questions? ######
+## Questions? 
 Feel free to open an issue or contact me.
 wahabcodes1@gmail.com
 
